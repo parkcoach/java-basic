@@ -1,4 +1,4 @@
-﻿# homework 1wee
+﻿# homework 1week
 
 ## 각 조는 하단에 아래와 같은 형식으로 조원의 구성원을 입력하세요
 
